@@ -15,14 +15,15 @@ export interface Activity {
 }
 
 export interface QueueItem {
-  instanceId: string; // ID único da ficha na fila
+  instanceId: string;
   activityId: string;
 }
 
 export interface ActivityLog {
   id: string;
   activityId: string;
-  completedAt: string; // Data ISO
+  completedAt: string; // ISO Date
+  durationMinutes?: number;
   type: "full" | "micro" | "skipped";
   notes?: string;
 }
@@ -34,10 +35,18 @@ export interface OperationalRule {
   category?: "time" | "energy" | "delay";
 }
 
+// Histórico de trabalho diário (8h)
+export interface DailyWorkRecord {
+  date: string; // YYYY-MM-DD
+  secondsWorked: number;
+  isCompleted: boolean;
+}
+
 export interface RoutineState {
   version: number;
   queue: QueueItem[];
   activities: Record<string, Activity>;
   logs: ActivityLog[];
   rules: OperationalRule[];
+  workRecords: Record<string, DailyWorkRecord>; // Chave: 'YYYY-MM-DD'
 }
