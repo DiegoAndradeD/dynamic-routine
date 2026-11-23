@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="368" viewBox="0 0 960 368" role="img" aria-label="routine · New time track">
+<rect width="960" height="368" rx="10" fill="#0E1116"/>
+<path d="M0 10a10 10 0 0 1 10-10h940a10 10 0 0 1 10 10v26H0z" fill="#171B22"/>
+<circle cx="20" cy="18" r="6" fill="#FF5F56"/>
+<circle cx="40" cy="18" r="6" fill="#FFBD2E"/>
+<circle cx="60" cy="18" r="6" fill="#27C93F"/>
+<text x="480" y="23" fill="#8B949E" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="13" text-anchor="middle">routine · New time track</text>
+<g font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14">
+<text x="18.0" y="62.0" fill="#fafafa" font-weight="bold" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">⚡</text>
+<text x="43.2" y="62.0" fill="#fafafa" font-weight="bold" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">DYNAMIC</text>
+<text x="110.4" y="62.0" fill="#fafafa" font-weight="bold" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">ROUTINE</text>
+<text x="186.0" y="62.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">●</text>
+<text x="202.8" y="62.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Focus</text>
+<text x="253.2" y="62.0" fill="#f59e0b" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">time</text>
+<text x="295.2" y="62.0" fill="#f59e0b" font-weight="bold" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">00:42:00</text>
+<text x="782.4" y="62.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">wed,</text>
+<text x="824.4" y="62.0" fill="#737373" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">18</text>
+<text x="849.6" y="62.0" fill="#737373" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">nov</text>
+<text x="883.2" y="62.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">·</text>
+<text x="900.0" y="62.0" fill="#737373" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">15:42</text>
+<rect x="396.0" y="67.0" width="67.2" height="19.0" fill="#f59e0b"/>
+<text x="26.4" y="81.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">1</text>
+<text x="43.2" y="81.0" fill="#737373" textLength="75.6" lengthAdjust="spacing" xml:space="preserve">Dashboard</text>
+<text x="144.0" y="81.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">2</text>
+<text x="160.8" y="81.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Time</text>
+<text x="219.6" y="81.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">3</text>
+<text x="236.4" y="81.0" fill="#737373" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">History</text>
+<text x="320.4" y="81.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">4</text>
+<text x="337.2" y="81.0" fill="#737373" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Rules</text>
+<text x="404.4" y="81.0" fill="#0a0a0a" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">5</text>
+<text x="421.2" y="81.0" fill="#0a0a0a" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Plan</text>
+<text x="18.0" y="100.0" fill="#737373" textLength="201.6" lengthAdjust="spacing" xml:space="preserve">~/Sync/routine/state.rtn</text>
+<text x="228.0" y="100.0" fill="#737373" textLength="92.4" lengthAdjust="spacing" xml:space="preserve">(encrypted)</text>
+<text x="18.0" y="119.0" fill="#f59e0b" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">NEW</text>
+<text x="51.6" y="119.0" fill="#f59e0b" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">TIME</text>
+<text x="93.6" y="119.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">TRACK</text>
+<rect x="118.8" y="143.0" width="588.0" height="19.0" fill="#27272a"/>
+<text x="34.8" y="157.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Name</text>
+<text x="118.8" y="157.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">Studying</text>
+<rect x="118.8" y="162.0" width="588.0" height="19.0" fill="#27272a"/>
+<text x="34.8" y="176.0" fill="#737373" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">Category</text>
+<text x="118.8" y="176.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">focus</text>
+<rect x="118.8" y="181.0" width="588.0" height="19.0" fill="#27272a"/>
+<text x="34.8" y="195.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Goal</text>
+<text x="76.8" y="195.0" fill="#737373" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">is</text>
+<text x="118.8" y="195.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">◂</text>
+<text x="135.6" y="195.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">per</text>
+<text x="169.2" y="195.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">week</text>
+<text x="211.2" y="195.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">▸</text>
+<rect x="118.8" y="200.0" width="588.0" height="19.0" fill="#3f3f46"/>
+<text x="18.0" y="214.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">▸</text>
+<text x="34.8" y="214.0" fill="#f59e0b" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Goal</text>
+<text x="118.8" y="214.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">6h▏</text>
+<text x="118.8" y="233.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">e.g.</text>
+<text x="160.8" y="233.0" fill="#737373" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">8h,</text>
+<text x="194.4" y="233.0" fill="#737373" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">1h30,</text>
+<text x="244.8" y="233.0" fill="#737373" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">45.</text>
+<text x="278.4" y="233.0" fill="#737373" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Empty</text>
+<text x="328.8" y="233.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="345.6" y="233.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">just</text>
+<text x="387.6" y="233.0" fill="#737373" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">track</text>
+<text x="438.0" y="233.0" fill="#737373" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">time,</text>
+<text x="488.4" y="233.0" fill="#737373" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">no</text>
+<text x="513.6" y="233.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">goal</text>
+<rect x="118.8" y="238.0" width="588.0" height="19.0" fill="#27272a"/>
+<text x="34.8" y="252.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Days</text>
+<text x="118.8" y="252.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">mon,</text>
+<text x="160.8" y="252.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">tue,</text>
+<text x="202.8" y="252.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">wed,</text>
+<text x="244.8" y="252.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">thu,</text>
+<text x="286.8" y="252.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">fri</text>
+<text x="18.0" y="347.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">[Tab]</text>
+<text x="68.4" y="347.0" fill="#E5E5E5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">next</text>
+<text x="110.4" y="347.0" fill="#E5E5E5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">field</text>
+<text x="160.8" y="347.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">•</text>
+<text x="177.6" y="347.0" fill="#f59e0b" font-weight="bold" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">[Enter]</text>
+<text x="244.8" y="347.0" fill="#E5E5E5" textLength="75.6" lengthAdjust="spacing" xml:space="preserve">next/save</text>
+<text x="328.8" y="347.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">•</text>
+<text x="345.6" y="347.0" fill="#f59e0b" font-weight="bold" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">[Ctrl+S]</text>
+<text x="421.2" y="347.0" fill="#E5E5E5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">save</text>
+<text x="463.2" y="347.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">•</text>
+<text x="480.0" y="347.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">[Esc]</text>
+<text x="530.4" y="347.0" fill="#E5E5E5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">cancel</text>
+</g>
+</svg>

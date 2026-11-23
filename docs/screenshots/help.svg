@@ -1,0 +1,247 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="824" viewBox="0 0 960 824" role="img" aria-label="routine · Help">
+<rect width="960" height="824" rx="10" fill="#0E1116"/>
+<path d="M0 10a10 10 0 0 1 10-10h940a10 10 0 0 1 10 10v26H0z" fill="#171B22"/>
+<circle cx="20" cy="18" r="6" fill="#FF5F56"/>
+<circle cx="40" cy="18" r="6" fill="#FFBD2E"/>
+<circle cx="60" cy="18" r="6" fill="#27C93F"/>
+<text x="480" y="23" fill="#8B949E" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="13" text-anchor="middle">routine · Help</text>
+<g font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14">
+<text x="18.0" y="62.0" fill="#fafafa" font-weight="bold" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">⚡</text>
+<text x="43.2" y="62.0" fill="#fafafa" font-weight="bold" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">DYNAMIC</text>
+<text x="110.4" y="62.0" fill="#fafafa" font-weight="bold" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">ROUTINE</text>
+<text x="186.0" y="62.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">●</text>
+<text x="202.8" y="62.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Focus</text>
+<text x="253.2" y="62.0" fill="#f59e0b" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">time</text>
+<text x="295.2" y="62.0" fill="#f59e0b" font-weight="bold" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">00:42:00</text>
+<text x="782.4" y="62.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">wed,</text>
+<text x="824.4" y="62.0" fill="#737373" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">18</text>
+<text x="849.6" y="62.0" fill="#737373" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">nov</text>
+<text x="883.2" y="62.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">·</text>
+<text x="900.0" y="62.0" fill="#737373" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">15:42</text>
+<rect x="18.0" y="67.0" width="109.2" height="19.0" fill="#f59e0b"/>
+<text x="26.4" y="81.0" fill="#0a0a0a" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">1</text>
+<text x="43.2" y="81.0" fill="#0a0a0a" font-weight="bold" textLength="75.6" lengthAdjust="spacing" xml:space="preserve">Dashboard</text>
+<text x="144.0" y="81.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">2</text>
+<text x="160.8" y="81.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Time</text>
+<text x="219.6" y="81.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">3</text>
+<text x="236.4" y="81.0" fill="#737373" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">History</text>
+<text x="320.4" y="81.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">4</text>
+<text x="337.2" y="81.0" fill="#737373" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Rules</text>
+<text x="404.4" y="81.0" fill="#737373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">5</text>
+<text x="421.2" y="81.0" fill="#737373" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Plan</text>
+<text x="18.0" y="100.0" fill="#737373" textLength="201.6" lengthAdjust="spacing" xml:space="preserve">~/Sync/routine/state.rtn</text>
+<text x="228.0" y="100.0" fill="#737373" textLength="92.4" lengthAdjust="spacing" xml:space="preserve">(encrypted)</text>
+<text x="18.0" y="119.0" fill="#f59e0b" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">KEYS</text>
+<text x="18.0" y="157.0" fill="#737373" font-weight="bold" textLength="84.0" lengthAdjust="spacing" xml:space="preserve">EVERYWHERE</text>
+<text x="34.8" y="176.0" fill="#f59e0b" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">1-5</text>
+<text x="202.8" y="176.0" fill="#e5e5e5" textLength="84.0" lengthAdjust="spacing" xml:space="preserve">Dashboard,</text>
+<text x="295.2" y="176.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Time,</text>
+<text x="345.6" y="176.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">History,</text>
+<text x="421.2" y="176.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Rules,</text>
+<text x="480.0" y="176.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Plan</text>
+<text x="34.8" y="195.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">T</text>
+<text x="202.8" y="195.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">start</text>
+<text x="253.2" y="195.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="270.0" y="195.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">stop</text>
+<text x="312.0" y="195.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">a</text>
+<text x="328.8" y="195.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">timer</text>
+<text x="379.2" y="195.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">(on</text>
+<text x="412.8" y="195.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="446.4" y="195.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Time</text>
+<text x="488.4" y="195.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">tab:</text>
+<text x="530.4" y="195.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">for</text>
+<text x="564.0" y="195.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="597.6" y="195.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">selected</text>
+<text x="673.2" y="195.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">track)</text>
+<text x="34.8" y="214.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">L</text>
+<text x="202.8" y="214.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">log</text>
+<text x="236.4" y="214.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">time</text>
+<text x="278.4" y="214.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">you</text>
+<text x="312.0" y="214.0" fill="#e5e5e5" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">already</text>
+<text x="379.2" y="214.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">spent</text>
+<text x="429.6" y="214.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">(&quot;1h30</text>
+<text x="488.4" y="214.0" fill="#e5e5e5" textLength="92.4" lengthAdjust="spacing" xml:space="preserve">yesterday&quot;)</text>
+<text x="34.8" y="233.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">?</text>
+<text x="202.8" y="233.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">this</text>
+<text x="244.8" y="233.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">help</text>
+<text x="34.8" y="252.0" fill="#f59e0b" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">Esc</text>
+<text x="202.8" y="252.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">back</text>
+<text x="244.8" y="252.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">to</text>
+<text x="270.0" y="252.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="303.6" y="252.0" fill="#e5e5e5" textLength="75.6" lengthAdjust="spacing" xml:space="preserve">dashboard</text>
+<text x="34.8" y="271.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">Q</text>
+<text x="60.0" y="271.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="85.2" y="271.0" fill="#f59e0b" font-weight="bold" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Ctrl+C</text>
+<text x="202.8" y="271.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">quit</text>
+<text x="18.0" y="309.0" fill="#737373" font-weight="bold" textLength="75.6" lengthAdjust="spacing" xml:space="preserve">DASHBOARD</text>
+<text x="34.8" y="328.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">C</text>
+<text x="60.0" y="328.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="85.2" y="328.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Enter</text>
+<text x="202.8" y="328.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">complete</text>
+<text x="278.4" y="328.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="312.0" y="328.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">activity</text>
+<text x="387.6" y="328.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">on</text>
+<text x="412.8" y="328.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">top;</text>
+<text x="454.8" y="328.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">it</text>
+<text x="480.0" y="328.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">goes</text>
+<text x="522.0" y="328.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">to</text>
+<text x="547.2" y="328.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="580.8" y="328.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">back</text>
+<text x="622.8" y="328.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">of</text>
+<text x="648.0" y="328.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="681.6" y="328.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">queue</text>
+<text x="34.8" y="347.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">M</text>
+<text x="202.8" y="347.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">micro</text>
+<text x="253.2" y="347.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">block:</text>
+<text x="312.0" y="347.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">counts</text>
+<text x="370.8" y="347.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">as</text>
+<text x="396.0" y="347.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">done,</text>
+<text x="446.4" y="347.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">with</text>
+<text x="488.4" y="347.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">a</text>
+<text x="505.2" y="347.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">short</text>
+<text x="555.6" y="347.0" fill="#e5e5e5" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">session</text>
+<text x="34.8" y="366.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">S</text>
+<text x="60.0" y="366.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="85.2" y="366.0" fill="#f59e0b" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">Tab</text>
+<text x="202.8" y="366.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">choose</text>
+<text x="261.6" y="366.0" fill="#e5e5e5" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">another</text>
+<text x="328.8" y="366.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">activity</text>
+<text x="404.4" y="366.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">from</text>
+<text x="446.4" y="366.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="480.0" y="366.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">queue</text>
+<text x="530.4" y="366.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">(1-9</text>
+<text x="572.4" y="366.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">picks</text>
+<text x="622.8" y="366.0" fill="#e5e5e5" textLength="75.6" lengthAdjust="spacing" xml:space="preserve">directly)</text>
+<text x="34.8" y="385.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">U</text>
+<text x="202.8" y="385.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">undo</text>
+<text x="244.8" y="385.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="278.4" y="385.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">last</text>
+<text x="320.4" y="385.0" fill="#e5e5e5" textLength="84.0" lengthAdjust="spacing" xml:space="preserve">completion</text>
+<text x="18.0" y="423.0" fill="#737373" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">TIME</text>
+<text x="60.0" y="423.0" fill="#737373" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">TAB</text>
+<text x="34.8" y="442.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">↑</text>
+<text x="51.6" y="442.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">↓</text>
+<text x="202.8" y="442.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">move</text>
+<text x="244.8" y="442.0" fill="#e5e5e5" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">through</text>
+<text x="312.0" y="442.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="345.6" y="442.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">days</text>
+<text x="387.6" y="442.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">of</text>
+<text x="412.8" y="442.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="446.4" y="442.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">week,</text>
+<text x="496.8" y="442.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">then</text>
+<text x="538.8" y="442.0" fill="#e5e5e5" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">through</text>
+<text x="606.0" y="442.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">a</text>
+<text x="622.8" y="442.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">day's</text>
+<text x="673.2" y="442.0" fill="#e5e5e5" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">entries</text>
+<text x="34.8" y="461.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">←</text>
+<text x="51.6" y="461.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">→</text>
+<text x="202.8" y="461.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">previous</text>
+<text x="278.4" y="461.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="295.2" y="461.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">next</text>
+<text x="337.2" y="461.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">week</text>
+<text x="34.8" y="480.0" fill="#f59e0b" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">Tab</text>
+<text x="76.8" y="480.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="102.0" y="480.0" fill="#f59e0b" font-weight="bold" textLength="75.6" lengthAdjust="spacing" xml:space="preserve">Shift+Tab</text>
+<text x="202.8" y="480.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">next</text>
+<text x="244.8" y="480.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="261.6" y="480.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">previous</text>
+<text x="337.2" y="480.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">time</text>
+<text x="379.2" y="480.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">track</text>
+<text x="34.8" y="499.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">A</text>
+<text x="60.0" y="499.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="85.2" y="499.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Enter</text>
+<text x="202.8" y="499.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">log</text>
+<text x="236.4" y="499.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">time</text>
+<text x="278.4" y="499.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">on</text>
+<text x="303.6" y="499.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="337.2" y="499.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">selected</text>
+<text x="412.8" y="499.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">day</text>
+<text x="34.8" y="518.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">D</text>
+<text x="202.8" y="518.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">delete</text>
+<text x="261.6" y="518.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="295.2" y="518.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">selected</text>
+<text x="370.8" y="518.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">entry</text>
+<text x="421.2" y="518.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">(move</text>
+<text x="471.6" y="518.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">onto</text>
+<text x="513.6" y="518.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">it</text>
+<text x="538.8" y="518.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">with</text>
+<text x="580.8" y="518.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">↓</text>
+<text x="597.6" y="518.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">first)</text>
+<text x="34.8" y="537.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">G</text>
+<text x="202.8" y="537.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">jump</text>
+<text x="244.8" y="537.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">to</text>
+<text x="270.0" y="537.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">today</text>
+<text x="18.0" y="575.0" fill="#737373" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">PLAN</text>
+<text x="60.0" y="575.0" fill="#737373" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">AND</text>
+<text x="93.6" y="575.0" fill="#737373" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">RULES</text>
+<text x="144.0" y="575.0" fill="#737373" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">TABS</text>
+<text x="34.8" y="594.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">A</text>
+<text x="202.8" y="594.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">add</text>
+<text x="236.4" y="594.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">an</text>
+<text x="261.6" y="594.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">activity</text>
+<text x="337.2" y="594.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">(Plan)</text>
+<text x="396.0" y="594.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">or</text>
+<text x="421.2" y="594.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">a</text>
+<text x="438.0" y="594.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">rule</text>
+<text x="480.0" y="594.0" fill="#e5e5e5" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">(Rules)</text>
+<text x="34.8" y="613.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">T</text>
+<text x="202.8" y="613.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">add</text>
+<text x="236.4" y="613.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">a</text>
+<text x="253.2" y="613.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">time</text>
+<text x="295.2" y="613.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">track</text>
+<text x="345.6" y="613.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">(Plan</text>
+<text x="396.0" y="613.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">tab)</text>
+<text x="34.8" y="632.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Enter</text>
+<text x="93.6" y="632.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="118.8" y="632.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">E</text>
+<text x="202.8" y="632.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">edit</text>
+<text x="244.8" y="632.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="278.4" y="632.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">selected</text>
+<text x="354.0" y="632.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">row</text>
+<text x="34.8" y="651.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">D</text>
+<text x="202.8" y="651.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">delete</text>
+<text x="261.6" y="651.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="295.2" y="651.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">selected</text>
+<text x="370.8" y="651.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">row</text>
+<text x="404.4" y="651.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">(asks</text>
+<text x="454.8" y="651.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">first)</text>
+<text x="18.0" y="689.0" fill="#737373" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">FORMS</text>
+<text x="34.8" y="708.0" fill="#f59e0b" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">Tab</text>
+<text x="76.8" y="708.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="102.0" y="708.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">↑</text>
+<text x="118.8" y="708.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">↓</text>
+<text x="202.8" y="708.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">next</text>
+<text x="244.8" y="708.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">/</text>
+<text x="261.6" y="708.0" fill="#e5e5e5" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">previous</text>
+<text x="337.2" y="708.0" fill="#e5e5e5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">field</text>
+<text x="34.8" y="727.0" fill="#f59e0b" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Enter</text>
+<text x="202.8" y="727.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">next</text>
+<text x="244.8" y="727.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">field;</text>
+<text x="303.6" y="727.0" fill="#e5e5e5" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">on</text>
+<text x="328.8" y="727.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="362.4" y="727.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">last</text>
+<text x="404.4" y="727.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">one,</text>
+<text x="446.4" y="727.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">save</text>
+<text x="34.8" y="746.0" fill="#f59e0b" font-weight="bold" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Ctrl+S</text>
+<text x="202.8" y="746.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">save</text>
+<text x="34.8" y="765.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">←</text>
+<text x="51.6" y="765.0" fill="#f59e0b" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">→</text>
+<text x="68.4" y="765.0" fill="#f59e0b" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">Home</text>
+<text x="110.4" y="765.0" fill="#f59e0b" font-weight="bold" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">End</text>
+<text x="202.8" y="765.0" fill="#e5e5e5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">move</text>
+<text x="244.8" y="765.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">the</text>
+<text x="278.4" y="765.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">cursor</text>
+<text x="337.2" y="765.0" fill="#e5e5e5" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">(or</text>
+<text x="370.8" y="765.0" fill="#e5e5e5" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">change</text>
+<text x="429.6" y="765.0" fill="#e5e5e5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">a</text>
+<text x="446.4" y="765.0" fill="#e5e5e5" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">choice)</text>
+<text x="18.0" y="784.0" fill="#10b981" font-weight="bold" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">✔</text>
+<text x="34.8" y="784.0" fill="#10b981" font-weight="bold" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">Done:</text>
+<text x="85.2" y="784.0" fill="#10b981" font-weight="bold" textLength="84.0" lengthAdjust="spacing" xml:space="preserve">Stretching</text>
+<text x="177.6" y="784.0" fill="#10b981" font-weight="bold" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">(full)</text>
+<text x="18.0" y="803.0" fill="#f59e0b" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">[any</text>
+<text x="60.0" y="803.0" fill="#f59e0b" font-weight="bold" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">key]</text>
+<text x="102.0" y="803.0" fill="#E5E5E5" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">close</text>
+<text x="152.4" y="803.0" fill="#E5E5E5" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">help</text>
+</g>
+</svg>
